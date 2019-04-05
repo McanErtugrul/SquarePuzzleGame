@@ -1,2 +1,2 @@
 # SquarePuzzleGame
-C# - Square Puzzla Game
+C# - Square Puzzle Game
